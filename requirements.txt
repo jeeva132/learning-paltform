@@ -13,3 +13,4 @@ SQLAlchemy
 typing-extensions
 werkzeug
 zipp
+pymysql
